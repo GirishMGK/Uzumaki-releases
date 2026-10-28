@@ -12,7 +12,7 @@ From the [**latest release**](../../releases/tag/latest):
 
 | File | Use it for |
 |---|---|
-| `Uzumaki-Setup.exe` | **Normal install** — installs Uzumaki with a Start-menu shortcut |
+| `Uzumaki-Setup.exe` | **Normal install** — installs Uzumaki with a Start-menu shortcut (and, if you like, a desktop one) |
 | `Uzumaki.exe` | Portable — runs from any folder without installing |
 | `*.sha256` | Checksums, to confirm a download is intact |
 | `CHANGELOG.md` | What's new in each version (also shown in the app under About) |
@@ -29,8 +29,8 @@ update fails to start.
 - **Stable** — the [`latest`](../../releases/tag/latest) release. What everyone
   gets by default.
 - **Beta** — the [`beta`](../../releases/tag/beta) release: the newest build,
-  before it becomes stable. Choose the beta channel in the app's About page to
-  receive it.
+  before it becomes stable. An administrator can switch to the beta channel on
+  the app's About page.
 - **Every stable version** is also kept under its own number (e.g. `v1.0.0`)
   on the [Releases](../../releases) page, so an earlier version can be
   reinstalled.
